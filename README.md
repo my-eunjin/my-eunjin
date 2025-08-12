@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**my-eunjin/my-eunjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=eunjin&fontSize=90&fontAlign=70&animation=twinkling)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- 👋
