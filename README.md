@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/figma-F24E1E?style=fflat&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/fileZilla-BF0000?style=flat&logo=filezilla&logoColor=white">
   <img src="https://img.shields.io/badge/gitHub-181717?style=flat&logo=github&logoColor=white">
+  <br/>
   <img src="https://img.shields.io/badge/Adobe photoshop-03346E?style=flat&logo=photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=illustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/excel-08CB00?style=flat&logo=excel&logoColor=white"/>
