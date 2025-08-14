@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8ebfff&height=300&section=header&text=eunjin&fontSize=90&fontAlign=70&animation=twinkling"/>
   <h3>🍀 어서오세요~ 🍀</h3>
   <p>제 깃허브에 들어오신 것을 환영합니다!<br/>차린건 없지만 구경하고 가세요~</p>
-  <p>포부 쓰기</p>
+  <p>+ 포부 쓰기</p>
   <img src="https://mblogthumb-phinf.pstatic.net/MjAyMDA0MDRfMjM2/MDAxNTg1OTUzOTc5NDk5.5YRMu8sgeKT1LlJ95ODh6mjxJTOs8GqHLH0SlKvNliMg.Oo-YVrM0yXky8pMO7nsHIfqQvX_D2gwrG7WtSwNbdXIg.GIF.bluenight_525/1585953979064.gif?type=w800"/>
 <hr>
   <h3>👀 저는 이래요 👀</h3>
