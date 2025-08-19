@@ -1,10 +1,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8ebfff&height=300&section=header&text=eunjin&fontSize=90&fontAlign=70&animation=twinkling"/>
   <h3>🍀 어서오세요~ 🍀</h3>
-  <p>제 깃허브에 들어오신 것을 환영합니다!</p>
-  <p>저는 편집디자인을 하다가 프론트앤드로 이직을 희망하고 있어요.<br/>
-    잘하진 못해도 노력하는 사람이 되겠습니다.<br/>
-    감사합니다~</p>
+  <p>제 깃허브에 방문해 주셔서 감사합니다!<br/>
+  저는 편집디자인을 하며 다양한 사람들과 소통하고 협업한 경험을 바탕으로,<br/>
+  프론트엔드 개발이라는 새로운 길에 도전하고 있습니다.<br/>
+  노력한 만큼 성장하고, 그 결과를 눈에 보이게 만들어내는 개발자가 되는 것이 목표입니다.<br/>
+  아직 많이 배우는 중이지만, 매일 조금씩 앞으로 나아가고 있습니다.<br/>
+  잘 부탁드립니다!</p>
 <br/><br/>
   <img src="https://mblogthumb-phinf.pstatic.net/MjAyMDA0MDRfMjM2/MDAxNTg1OTUzOTc5NDk5.5YRMu8sgeKT1LlJ95ODh6mjxJTOs8GqHLH0SlKvNliMg.Oo-YVrM0yXky8pMO7nsHIfqQvX_D2gwrG7WtSwNbdXIg.GIF.bluenight_525/1585953979064.gif?type=w800"/>
 <hr>
